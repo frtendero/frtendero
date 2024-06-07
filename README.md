@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frtendero
-- :computer: I'm working as a Machine Learning Engineer at TDK
-- 👀 I’m interested in Machine Learning, AI Safety and Effective Altruism
-- 🌱 I’m currently learning about ML, Deep Learning, MLOps, AI Safety, ...
+- :computer: I'm working as a ML Engineer at TDK
+- 👀 I’m interested in Cognitive & Contemplative Sciences, AI and Effective Altruism
+- 🌱 I’m currently learning about Meditation, Cognitive Science, ML, MLOps, AI Safety, ...
 - 💞️ I’m looking to collaborate on ML projects focused on having a positive impact in society
 - 📫 How to reach me: frtendero@gmail.com
 
